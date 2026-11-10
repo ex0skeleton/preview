@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1280" viewBox="185 100 970 1040" role="img" aria-labelledby="title desc">
+<title id="title">Document Viewer Logo</title>
+<desc id="desc">White folded document and orange magnifying glass with transparent background.</desc>
+
+<g id="document" fill="#ffffff">
+<path d="M360 142H666V394Q666 474 746 474H1002V942Q1002 1062 882 1062H360Q239 1062 239 941V263Q239 142 360 142Z"/>
+<path fill="#ef6823" d="M716 150L980 423H748Q716 423 716 391Z"/>
+</g>
+<g id="document-lines" fill="none" stroke="#000000" stroke-width="72" stroke-linecap="round">
+<path d="M390 628H727"/><path d="M390 779H628"/>
+</g>
+<g id="magnifier-separation" fill="none" stroke="#000000" stroke-linecap="round">
+<path d="M957 930L1072 1054" stroke-width="120"/>
+<circle cx="821" cy="796" r="170" stroke-width="130"/>
+</g>
+<g id="magnifier" fill="none" stroke="#ef6823" stroke-linecap="round">
+<path d="M951 925L1072 1054" stroke-width="70"/>
+<circle cx="821" cy="796" r="170" stroke-width="70"/>
+</g>
+</svg>
